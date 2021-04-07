@@ -1,0 +1,8 @@
+Recode :
+
+- Chỉnh sửa thông báo khi đang thi môn này không thể thi môn khác
+- Chỉnh sửa thông báo khi sinh viên đang thi với câu hỏi question A thì thông báo admin
+không thê update hoặc delete (tuy nhiên với câu hỏi học sinh không khi có thể delete hoặc update)
+- Làm đc nút Previous 
+- Làm được random câu hỏi mà không cần finish (Chỉ cần nhấn take Quiz là random với số lượng câu hỏi cũ)
+- Upload tên subject  
